@@ -77,9 +77,8 @@ If more extensive measures are required to update or expand open-source data in 
 <h5>Data Cluster Maintainer</h5>
   <li><ul>Lukas Elster (FZD TU Darmstadt)</ul> 
     <ul>Clemens Linnhoff (Persival GmbH)</ul> <ul>Jürgen Wille (FrontMod GmbH)</ul> 
-<h5>Repositories: </h5>
-
-    [DC1-1](https://github.com/openMSL/reflection_based_radar_object_model)
+<h5>Repositories:</h5>
+[DC1-1](https://github.com/openMSL/reflection_based_radar_object_model)
 
 
 
