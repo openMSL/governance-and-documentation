@@ -48,9 +48,9 @@ This open-source material has been classified by the Data Cluster Maintainers - 
 The open-source material is not directly maintained or managed by ASCS. The owners or maintainers of this open-source material can be found in the GitHub data cluster of the same name. All intellectual property remains with the original contributors and is subject to the original license terms listed in the LICENSE file.
 
 The ASCS reserves the right to remove open-source material and associated repositories from its ENVITED OpenMSL at any time. ASCS, as well as the appropriate DCMs, regularly monitor the activity of open-source material to ensure that it is still relevant to the ENVITED research cluster. Open-source material that no longer meets this will be removed from the platform by decision of the ENVITED TSC.
-This open-source material will be made available under open-source licenses and as is. This is done for the protection of the creators without any warranty and under exclusion of liability for damages resulting from any use. </i><br/>
+This open-source material will be made available under open-source licenses and as is. This is done for the protection of the creators without any warranty and under exclusion of liability for damages resulting from any use. 
 
-Creators of additional open-source material that may be relevant to the ENVITED OpenMSL are welcome to contact the ASCS office at hello@envited.market.
+Creators of additional open-source material that may be relevant to the ENVITED OpenMSL are welcome to contact the ASCS office at hello@envited.market. </i>
   
   
 <h3>§4 Implementation Phases of the OpenMSL.</h3>
