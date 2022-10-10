@@ -19,6 +19,8 @@ Data Cluster Maintainers (DCMs) monitor the activities in the corresponding data
 
 The ASCS office is responsible for the organization, operation and documentation of the OpenMSL. It serves as the central contact point for inquiries regarding the OpenMSL. 
 
+
+
 <h3>§3 Data clusters</h3>
 
 Data clusters bundle topic-specific content of the OpenMSL. The ENVITED TSC decides on the number and characteristics of the data clusters in accordance with the topic orientation and resources in the ENVITED research cluster. New data clusters can be requested via an application to the ASCS office and approved via the TSC. The following requirements apply for this purpose.
@@ -35,6 +37,36 @@ Publicly funded projects (under confirmation by the consortium leader)
 5. the ENVITED OpenMSL disclaimer must be agreed to and documented in a DISCLAIMER file. 
 
 All intellectual property remains with the original contributors and is subject to the original license terms described in the LICENSE file.
+
+DISCLAIMER for GitHub Library
+This open-source material has been classified by the Data Cluster Maintainers - DCMs of the data cluster <name of data cluster> on <date> as directly supporting the activities in the ENVITED research cluster. For this reason, the open source matreial is hosted by the Automotive Solution Center for Simulation e.V. (ASCS) in this Open Source Model & Simulation Library (OpenMSL). This open-source material was created by <name of data provider> and is monitored by the DCMs of the <name of data cluster>. 
+
+The open-source material is not directly maintained or managed by ASCS. The owners or maintainers of this open-source material can be found in the GitHub data cluster of the same name. All intellectual property remains with the original contributors and is subject to the original license terms listed in the LICENSE file.
+
+The ASCS reserves the right to remove open-source material and associated repositories from its ENVITED OpenMSL at any time. ASCS, as well as the appropriate DCMs, regularly monitor the activity of open-source material to ensure that it is still relevant to the ENVITED research cluster. Open-source material that no longer meets this will be removed from the platform by decision of the ENVITED TSC.
+This open-source material will be made available under open-source licenses and as is. This is done for the protection of the creators without any warranty and under exclusion of liability for damages resulting from any use.
+
+Creators of additional open-source material that may be relevant to the ENVITED OpenMSL are welcome to contact the ASCS office at hello@envited.market.
+  
+  
+<h3>§4 Implementation Phases of the OpenMSL.</h3>
+
+Implementation phases define different stages in which data clusters or parts of them can be located. 
+
+<h5>4.1 Initialization Phase</h5>
+In the initialization phase, the new data cluster and its model(s) are first proposed or presented. All ENVITED members can participate in this phase after invitation by the ASCS and express their interest as DCM. The ENVITED TSC decides on the initiation of the new data cluster. Before filling the repository, the DCMs define governance rules on how and under which structure and quality metrics the data are to be entered. 
+
+<h5>4.2 Active phase </h5>
+In the active phase, after approval by the DCMs, the open-source data is entered into the repository. This is usually done by the data providers, the DCMs, or the ASCS office. The active phase allows public access to the data sets as well as the comment function regarding applicability, functionality and necessary updates. Change proposals (pull requests) can be decided or accepted by the DCMs. 
+  
+  
+<h5>4.3 Project phase</h5>
+If more extensive measures are required to update or expand open-source data in a data cluster, the project phase provides a formal definition of an implementation project. Here, a concrete project plan with motivation, objectives, and implementation timeframe must be defined with the involvement of participating or supporting ENVITED members. The initiation is done by the DCMs. All ENVITED members are informed about the initiation of a project phase by the ASCS office and given the opportunity to participate. In addition to resources / funds of the members, third-party funds as well as funds from the ENVITED Research Cluster can be used in the project phase. The latter also applies to the awarding of contracts to external service providers, whereby the awarding guidelines of the ASCS must be observed here. The final decision on the allocation of funds is made by the ASCS Executive Board after recommendation by the ENVITED TSC. 
+
+
+
+
+
 
 
 
