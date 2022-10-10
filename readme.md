@@ -39,8 +39,8 @@ Publicly funded projects (under confirmation by the consortium leader)
 
 All intellectual property remains with the original contributors and is subject to the original license terms described in the LICENSE file.
 
-DISCLAIMER for GitHub Library
-This open-source material has been classified by the Data Cluster Maintainers - DCMs of the data cluster <name of data cluster> on <date> as directly supporting the activities in the ENVITED research cluster. For this reason, the open source matreial is hosted by the Automotive Solution Center for Simulation e.V. (ASCS) in this Open Source Model & Simulation Library (OpenMSL). This open-source material was created by <name of data provider> and is monitored by the DCMs of the <name of data cluster>. 
+<i>DISCLAIMER for GitHub Library
+This open-source material has been classified by the Data Cluster Maintainers - DCMs of the data cluster <name of data cluster> on <date> as directly supporting the activities in the ENVITED research cluster. For this reason, the open source matreial is hosted by the Automotive Solution Center for Simulation e.V. (ASCS) in this Open Source Model & Simulation Library (OpenMSL). This open-source material was created by <name of data provider> and is monitored by the DCMs of the <name of data cluster>. </i>
 
 The open-source material is not directly maintained or managed by ASCS. The owners or maintainers of this open-source material can be found in the GitHub data cluster of the same name. All intellectual property remains with the original contributors and is subject to the original license terms listed in the LICENSE file.
 
