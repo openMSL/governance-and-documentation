@@ -83,10 +83,10 @@ If more extensive measures are required to update or expand open-source data in 
   <ul>Jürgen Wille (FrontMod GmbH)</ul>
   
 <h5>Repositories:</h5>
-[DC1-1 reflection_based_radar_object_model] (https://github.com/openMSL/reflection_based_radar_object_model)
-[DC1-2 reflection_based_lidar_object_model] (https://github.com/openMSL/reflection_based_lidar_object_model)
-[DC1-3 object_based_generic_perception_object_model] (https://github.com/openMSL/object_based_generic_perception_object_model)
-[DC1-4 object_based_camera_object_model] (https://github.com/openMSL/object_based_camera_object_model)
+<ul>[DC1-1 reflection_based_radar_object_model] (https://github.com/openMSL/reflection_based_radar_object_model)</ul>
+<ul>[DC1-2 reflection_based_lidar_object_model] (https://github.com/openMSL/reflection_based_lidar_object_model)</ul>
+<ul>[DC1-3 object_based_generic_perception_object_model] (https://github.com/openMSL/object_based_generic_perception_object_model)</ul>
+<ul>[DC1-4 object_based_camera_object_model] (https://github.com/openMSL/object_based_camera_object_model)</ul>
 
 
 
