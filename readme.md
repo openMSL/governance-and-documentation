@@ -1,4 +1,4 @@
-#GOVERNANCE RULES
+<h1>GOVERNANCE RULES</h1>
 
 <h3>§1 Purpose of ENVITED OpenMSL</h3>
 The Open-Source Model & Simulation Library is anchored in the Data Pool of the ENVITED research cluster and is operated by the Automotive Solution Center for Simulation e.V. - ASCS. It is thus a further, independent instance in the data pool in addition to the data marketplace. The purpose of OpenMSL is to bundle open-source material in the area of simulation-driven product lifecycle processes for highly automated vehicles, to make it openly accessible, and to sustainably enable active and cooperative further development by stakeholders. The GitHub-based OpenMSL supports knowledge transfer and in addition the research and development of methods and processes in the mentioned area. This includes simulation models as well as data and software applications for the preparation, processing or evaluation of models as well as documents for knowledge transfer. The content of OpenMSL thus favors the processing of research questions and standardization approaches in the ENVITED research cluster and beyond. 
@@ -78,8 +78,8 @@ If more extensive measures are required to update or expand open-source data in 
   <li><ul>Lukas Elster (FZD TU Darmstadt)</ul> 
     <ul>Clemens Linnhoff (Persival GmbH)</ul> <ul>Jürgen Wille (FrontMod GmbH)</ul> 
 <h5>Repositories:</h5>
-[DC1-1](https://github.com/openMSL/reflection_based_radar_object_model)
-     [Modular OSMP Framework](https://gitlab.com/tuda-fzd/perception-sensor-modeling/modular-osmp-framework)
+[DC1-1] (https://github.com/openMSL/reflection_based_radar_object_model)
+
 
 
 
