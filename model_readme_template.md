@@ -71,3 +71,11 @@ Give step by step build instructions for supported operating systems. The follow
 
 ## Credits
 Give credits to funding or third-party contributions. If the model is further described in a publication, it can also be named here.
+
+## References
+Throughout this readme file, references are to be used, e.g. when citing scientific literature while describing the modeling approach. This can be done by added a number in the text with a reference identifier, like so: [[1](#Rosenberger2020)</sup>, p. 192]. For longer papers or book sections, please also give the page number as shown in this example.
+
+Then add the full list of authors, title and journal or conference in this section. Here is the bibliography from the example above.
+
+
+<a name="Rosenberger2020">1</a>: P. Rosenberger, M. F. Holder, N. Cianciaruso, P. Aust, J. F. Tamm-Morschel, C. Linnhoff, and H. Winner, “Sequential lidar sensor system simulation: A modular approach for simulation-based safety validation of automated driving”, In Automotive and Engine Technology, vol. 5, no. 3-4, pp. 187–197, Dec. 2020.
